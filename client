@@ -107,6 +107,7 @@
             <name type="string">Blood Hunter Order</name>
             <level type="number">3</level>
             <text type="formattedtext"><p>At 3rd level. you commit to an order of blood hunter martial focus. Choose <b>Order of the Mutant</b>, <b>Order of the Ghostslayer</b>. or <b>Order of the Profane Soul</b>, all detailed at the end of the class description. The order you choose grants you features at 3rd level, and again at 7th. l1th, 15th, and l8th level.</p></text>
+			<specializationchoice type="number">1</specializationchoice>
           </bloodhunterorder3>
           <abilityscoreimprovement4>
             <name type="string">Ability Score Improvement</name>
